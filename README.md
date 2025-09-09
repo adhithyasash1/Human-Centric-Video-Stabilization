@@ -1,6 +1,6 @@
 # human-centric video stabilization
 
-a sophisticated approach to video stabilization that keeps the human subject centered while allowing the background to drift naturally, creating smooth, professional-looking footage.
+an approach to video stabilization that keeps the human subject centered while allowing the background to drift naturally, creating smooth, professional-looking footage.
 
 ## what it does
 
